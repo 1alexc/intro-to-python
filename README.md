@@ -103,6 +103,6 @@
      ```
 ## Part 6: Bonus Task 🎯
 1. **Experimenting With Your Test**:
-   - Try testing your understanding by changing the function name and/or returning another string in the `hello_world.py` file. Remember, if the function name and/or string in the `test_hello.py` file doesn't match, it will return an error when you run python test_hello.py in your terminal.
+   - Try testing your understanding by changing the function name and/or returning another string in the `hello_world.py` file. Remember, if the function name and/or string in the `test_hello.py` file doesn't match, it will return an error when you run `python test_hello.py` in your terminal.
 
 ---
